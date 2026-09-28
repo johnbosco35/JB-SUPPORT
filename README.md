@@ -1,4 +1,4 @@
-# Halden Support: AI refund desk
+# JB Support: AI refund desk
 
 Customers describe a refund problem in a chat-style form. The system checks the order,
 applies the written policy, and returns **Approved**, **Denied** or **Escalated**.
