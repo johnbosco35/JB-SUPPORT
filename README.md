@@ -26,6 +26,8 @@ frontend (React)  ->  /api  ->  routes -> controllers -> services (policy, ai)
 - `controllers/` request flow: validate, look up, classify, decide, save
 - `services/policy.ts` deterministic business rules (the only place a decision is made)
 - `services/ai.ts` Gemini calls + prompt-injection guard
+ [Link](https://drive.google.com/file/d/1NfKVNCwnRqbcOGKTdGRE1BnQn3UtAGhB/view?usp=sharing)
+
 
 ## How the AI is used
 1. **Classify**: the model reads the customer message and returns a category
